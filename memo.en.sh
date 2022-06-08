@@ -1,0 +1,1 @@
+solana transfer --from my_solana_wallet.json 7FuYxAZKPFprUEMiAgjeMayAUUWL7PPCRGvn4eEGDUwG --allow-unfunded-recipient --url https://api.devnet.solana.com --fee-payer my_solana_wallet.json --with-memo 122
